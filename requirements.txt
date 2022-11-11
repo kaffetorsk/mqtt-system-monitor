@@ -1,0 +1,4 @@
+python-decouple
+psutil
+nvitop
+asyncio_mqtt
