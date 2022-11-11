@@ -1,4 +1,4 @@
-[![Dependency Review](https://github.com/kaffetorsk/mqtt-system-monitor/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/kaffetorsk/mqtt-system-monitor/actions/workflows/dependency-review.yml) [![CodeQL](https://github.com/kaffetorsk/mqtt-system-monitor/actions/workflows/codeql.yml/badge.svg)](https://github.com/kaffetorsk/mqtt-system-monitor/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/kaffetorsk/mqtt-system-monitor/actions/workflows/codeql.yml/badge.svg)](https://github.com/kaffetorsk/mqtt-system-monitor/actions/workflows/codeql.yml)
 
 # mqtt-system-monitor
 Small python script that reads basic hardware performance and publishes it as JSON to an MQTT broker.
